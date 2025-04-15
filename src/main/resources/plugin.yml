@@ -1,5 +1,5 @@
 name: ZenPings
-version: '1.0-SNAPSHOT'
+version: 'v1.0'
 main: dev.luvtoxic.zenPings.ZenPings
 api-version: '1.21'
 authors: [ luvtoxic ]
