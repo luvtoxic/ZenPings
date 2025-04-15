@@ -23,5 +23,22 @@
 hs_err_pid*
 replay_pid*
 
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Build output
+target/
+
+# Maven Shade plugin output
+dependency-reduced-pom.xml
+
+# Logs / temp
+*.tmp
+
+# OS stuff
+.DS_Store
+Thumbs.db
+
 # Kotlin Gradle plugin data, see https://kotlinlang.org/docs/whatsnew20.html#new-directory-for-kotlin-data-in-gradle-projects
 .kotlin/
