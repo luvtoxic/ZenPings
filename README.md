@@ -78,8 +78,6 @@ Drop the `ZenPings.jar` in the plugins folder & its ready!
 # Support
 Join my [Discord](https://discord.gg/HFP5v3rZAA) for any issues / suggestions.
 
-# License 
-Custom Non-Commercial License, see [LICENSE](./LICENSE) for details.
 
 > Built with ☕ and ❤️ by [luvtoxic](https://github.com/luvtoxic)
 
