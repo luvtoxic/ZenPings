@@ -1,0 +1,7 @@
+replacement-text: "<yellow>@<aqua>%player%</aqua>"
+sound: BLOCK_NOTE_BLOCK_PLING
+volume: 1.0
+pitch: 0.8
+prefix: "@"
+cooldown-seconds: 5
+action-bar-message: "<yellow>%player% mentioned you!</yellow>"

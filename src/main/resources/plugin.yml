@@ -1,0 +1,22 @@
+name: ZenPings
+version: '1.0-SNAPSHOT'
+main: dev.luvtoxic.zenPings.ZenPings
+api-version: '1.21'
+authors: [ luvtoxic ]
+commands:
+  ping:
+    description: Toggle or manage pings
+    usage: /<command> [on|off|reload]
+permissions:
+  zenpings.toggle:
+    description: Allows toggling pings
+    default: true
+  zenpings.reload:
+    description: Allows reloading the config
+    default: op
+  zenpings.color.default:
+    description: Default ping color
+    default: true
+  zenpings.color.vip:
+    description: VIP ping color
+    default: false
